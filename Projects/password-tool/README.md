@@ -6,7 +6,7 @@ A simple, educational tool that scores a password (0–100), estimates entropy, 
 
 ---
 
-## ✨ Features
+## Features
 - Scores passwords on length, character variety, and entropy  
 - Detects common passwords, keyboard sequences, and repeated characters  
 - Estimates entropy & brute-force crack-time (rough guess)  
@@ -14,7 +14,7 @@ A simple, educational tool that scores a password (0–100), estimates entropy, 
 
 ---
 
-## 🚀 Usage
+## Usage
 From the project root, run:
 
 ```bash
